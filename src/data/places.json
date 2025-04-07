@@ -1,0 +1,22 @@
+[
+    {
+      "id": "massanjore-dam",
+      "name": "Massanjore Dam",
+      "districtId": "dumka",
+      "location": "Massanjore, Dumka",
+      "description": "A scenic dam surrounded by hills and forests.",
+      "tourismType": "eco",
+      "mapUrl": "https://maps.google.com/?q=Massanjore+Dam"
+    },
+    {
+      "id": "malooti-temples",
+      "name": "Malooti Temples",
+      "districtId": "dumka",
+      "location": "Shikaripara, Dumka",
+      "description": "A heritage site with terracotta temples.",
+      "tourismType": "heritage",
+      "mapUrl": "https://maps.google.com/?q=Malooti+Temples"
+    }
+  
+]
+  
