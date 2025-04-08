@@ -5,6 +5,7 @@ import DistrictSelector from "../components/DistrictSelector";
 import TourismTypes from "../components/TourismTypes";
 import Helplines from "../components/Helplines";
 import Footer from "../components/Footer";
+import MissionSection from "../components/MissionSection"
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <DistrictSelector />
       <TourismTypes />
       <Helplines />
+      <MissionSection />
       <Footer />
     </div>
   );

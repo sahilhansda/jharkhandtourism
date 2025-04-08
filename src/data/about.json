@@ -1,0 +1,111 @@
+{
+    "history": {
+      "title": "History of Jharkhand",
+      "description": "Jharkhand has a rich historical tapestry, marked by ancient tribal civilizations, freedom movements, and the eventual formation of the state.",
+      "items": [
+        {
+          "title": "Formation of State",
+          "description": "Jharkhand was officially formed on 15th November 2000 after being carved out of Bihar.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Tribal Resistance",
+          "description": "Revolts like the Santhal rebellion and leaders like Birsa Munda symbolize tribal resistance against British colonialism.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "British Colonial Era",
+          "description": "The British exploited Jharkhand’s natural resources, causing socio-economic and cultural impacts.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Freedom Movement",
+          "description": "Jharkhand played a role in India’s struggle for freedom through regional uprisings and brave tribal martyrs.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Post-Independence Movements",
+          "description": "Movements led by Adivasi organizations fought for statehood based on distinct identity and resource rights.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Cultural Identity",
+          "description": "Despite challenges, Jharkhand retained its tribal identity and eventually earned recognition as a separate state.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        }
+      ]
+    },
+    "culture": {
+      "title": "Culture of Jharkhand",
+      "description": "The cultural landscape of Jharkhand is a vibrant mix of tribal traditions, folk music, colorful dances, and deep spiritual beliefs.",
+      "items": [
+        {
+          "title": "Chhau Dance",
+          "description": "A traditional masked dance incorporating martial arts, mostly performed in eastern Jharkhand.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Santhali Music",
+          "description": "Music played during festivals and daily life, using instruments like tamak and tumdak.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Tribal Art & Paintings",
+          "description": "Tribal communities express themselves through paintings using natural colors and motifs.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Folk Literature",
+          "description": "Oral traditions include legends, proverbs, and folk tales passed down generations.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Traditional Attire",
+          "description": "Tribal wear includes handwoven sarees and jewelry made from beads and metals.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Festive Gatherings",
+          "description": "Communities come together during festivals to dance, sing, and feast, showcasing unity and joy.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        }
+      ]
+    },
+    "festivals": {
+      "title": "Festivals of Jharkhand",
+      "description": "Jharkhand celebrates a variety of tribal and local festivals that highlight its deep spiritual connection with nature and community life.",
+      "items": [
+        {
+          "title": "Sarhul",
+          "description": "Marks the arrival of spring; worship of the Sal tree and nature spirits.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Karma",
+          "description": "Celebrated by tribal communities for prosperity and fertility, involving music and tree worship.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Tusu Parab",
+          "description": "Harvest festival mainly celebrated by Kurmi and Munda communities.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Sohrai",
+          "description": "Post-harvest cattle festival celebrated with wall painting and rituals.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Jitia",
+          "description": "Observed by mothers for the well-being of their children.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        },
+        {
+          "title": "Makar Sankranti",
+          "description": "Pan-Indian festival also celebrated widely in Jharkhand with local customs.",
+          "image": "https://utsav.gov.in/images/default-img.jpg"
+        }
+      ]
+    }
+  }
+  

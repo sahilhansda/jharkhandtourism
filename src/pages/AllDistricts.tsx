@@ -2,6 +2,7 @@ import React from "react";
 import districts from "../data/districts.json";
 import { Link } from "react-router-dom";
 import Header from "../components/Header";
+import MissionSection from "../components/MissionSection";
 import Footer from "../components/Footer";
 
 const DistrictsPage = () => {
@@ -61,6 +62,7 @@ const DistrictsPage = () => {
       ))}
     </div>
   </main>
+  <MissionSection />
   <Footer />
 </div>
 

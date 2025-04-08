@@ -9,7 +9,14 @@ const DistrictSelector = () => {
   return (
     <section className="relative w-full h-screen bg-gradient-to-br from-peach-100 to-white flex items-center justify-center overflow-hidden">
       {/* Particles & Orbits */}
-      <div className="absolute inset-0 z-0 pointer-events-none">
+      <div
+        className="absolute inset-0 z-0 pointer-events-none opacity-15"
+        style={{
+          backgroundImage: "url('../images/travel-pattern.png')",
+          backgroundSize: 'cover',
+    backgroundRepeat: 'repeat',
+        }}
+        >
       <div className="floating-leaves">
   {Array.from({ length: 40 }).map((_, i) => {
     const left = Math.random() * 100;

@@ -1,22 +1,59 @@
 [
-    {
-      "id": "massanjore-dam",
-      "name": "Massanjore Dam",
-      "districtId": "dumka",
-      "location": "Massanjore, Dumka",
-      "description": "A scenic dam surrounded by hills and forests.",
-      "tourismType": "eco",
-      "mapUrl": "https://maps.google.com/?q=Massanjore+Dam"
+  {
+    "id": "massanjore-dam",
+    "name": "Massanjore Dam",
+    "districtId": "dumka",
+    "location": "Massanjore, Dumka",
+    "howToReach": {
+      "byAir": "The nearest airport is Deoghar Airport (~80 km) or Ranchi Airport (~260 km).",
+      "byTrain": "Nearest railway station is Dumka (~35 km), connected to Jasidih and Bhagalpur.",
+      "byRoad": "Well connected by road from Dumka and nearby towns. Buses and taxis available."
     },
-    {
-      "id": "malooti-temples",
-      "name": "Malooti Temples",
-      "districtId": "dumka",
-      "location": "Shikaripara, Dumka",
-      "description": "A heritage site with terracotta temples.",
-      "tourismType": "heritage",
-      "mapUrl": "https://maps.google.com/?q=Malooti+Temples"
-    }
-  
+    "description": "A scenic dam surrounded by hills and forests, perfect for picnics and nature outings.",
+    "longDesc": "Massanjore Dam, also known as Canada Dam, is built on the Mayurakshi River. It's a popular tourist destination surrounded by hills, forests, and lush greenery. The dam also features boating facilities and scenic views, making it ideal for nature lovers and photographers.",
+    "tourismType": ["eco", "adventure"],
+    "activities": ["Boating", "Nature Walks", "Photography", "Bird Watching", "Picnicking"],
+    "ticketInformation": "Entry is free. Boating may have separate charges (₹50–₹100 per person).",
+    "bestTimeToVisit": "October to March, when the weather is pleasant and the reservoir is full.",
+    "managedBy": "Jharkhand Tourism Department and Irrigation Department.",
+    "contact": {
+      "localHelpline": "06534-123456",
+      "tourismOffice": "Dumka Tourism Office: 06534-789012"
+    },
+    "mapUrl": "https://maps.google.com/?q=Massanjore+Dam",
+    "frontImage": "http://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2018/05/2018051710.jpg",
+    "photoGallery": [
+      "https://example.com/massanjore1.jpg",
+      "https://example.com/massanjore2.jpg",
+      "https://example.com/massanjore3.jpg"
+    ]
+  },
+  {
+    "id": "malooti-temples",
+    "name": "Malooti Temples",
+    "districtId": "dumka",
+    "location": "Shikaripara, Dumka",
+    "howToReach": {
+      "byAir": "Deoghar Airport (~90 km) or Ranchi (~270 km).",
+      "byTrain": "Nearest railway station is Dumka (~50 km).",
+      "byRoad": "Reachable by road via Dumka. Taxis and autos available."
+    },
+    "description": "A heritage site with terracotta temples showcasing unique Bengal-style architecture.",
+    "longDesc": "Malooti, a small village near Shikaripara in Dumka, houses over 100 terracotta temples built in the 17th century. These temples depict scenes from epics like Ramayana and Mahabharata and are made using ancient terracotta techniques.",
+    "tourismType": ["heritage", "spiritual"],
+    "activities": ["Temple Visit", "Photography", "Cultural Exploration"],
+    "ticketInformation": "Free entry.",
+    "bestTimeToVisit": "November to February, for pleasant weather and cultural festivals.",
+    "managedBy": "Jharkhand Tourism and Archaeological Survey of India (ASI).",
+    "contact": {
+      "localHelpline": "06534-654321",
+      "tourismOffice": "Dumka Tourism Office: 06534-789012"
+    },
+    "mapUrl": "https://maps.google.com/?q=Malooti+Temples",
+    "frontImage": "https://example.com/malooti-cover.jpg",
+    "photoGallery": [
+      "https://example.com/malooti1.jpg",
+      "https://example.com/malooti2.jpg"
+    ]
+  }
 ]
-  
