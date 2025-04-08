@@ -34,7 +34,7 @@ npm run dev
 Then open http://localhost:5173
 ```
 📦 Deployment
-Hosted on [GitHub Pages / Vercel / Netlify] (optional)
+Hosted on [Netlify] https://jharkhandtourguide.netlify.app/
 
 Made with ❤️ for Jharkhand.
 
