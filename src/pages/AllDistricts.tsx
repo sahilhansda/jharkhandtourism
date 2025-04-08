@@ -14,52 +14,55 @@ const DistrictsPage = () => {
       Districts of Jharkhand
     </h1>
     <div className="grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-      {districts.map((district) => (
-        <div
-          key={district.id}
-          className="bg-white rounded-2xl shadow-md overflow-hidden border border-peach-300 flex flex-col-reverse md:flex-row"
-        >
-          {/* Info */}
-          <div className="p-4 flex flex-col justify-between w-full md:w-1/2">
-            <div>
-              <h2 className="text-xl font-semibold text-peach-600 mb-2">
-                {district.name}
-              </h2>
-              <ul className="text-sm text-gray-700 space-y-1">
-                <li>
-                  <span className="font-medium">Area:</span> {district.area} km²
-                </li>
-                <li>
-                  <span className="font-medium">Blocks:</span> {district.blocks}
-                </li>
-                <li>
-                  <span className="font-medium">Population:</span> {district.population}
-                </li>
-                <li>
-                  <span className="font-medium">Villages:</span> {district.villages}
-                </li>
-              </ul>
-            </div>
-            <div className="mt-4">
-              <Link
-                to={`/district/${district.id}`}
-                className="inline-block px-4 py-2 rounded-lg bg-peach-500 hover:bg-peach-600 text-white text-sm font-semibold transition"
-              >
-                Explore {district.name}
-              </Link>
-            </div>
-          </div>
-
-          {/* Image */}
-          <div className="w-full md:w-1/2 aspect-video md:aspect-auto max-h-64 md:max-h-50">
-            <img
-              src={`${district.image}`}
-              alt={`${district.name}`}
-              className="w-full h-full object-cover transition-opacity"
-            />
-          </div>
+    {districts
+  .sort((a, b) => a.name.localeCompare(b.name)) // Alphabetical sort
+  .map((district) => (
+    <div
+      key={district.id}
+      className="bg-white rounded-2xl shadow-md overflow-hidden border border-peach-300 flex flex-col-reverse md:flex-row"
+    >
+      {/* Info */}
+      <div className="p-4 flex flex-col justify-between w-full md:w-1/2">
+        <div>
+          <h2 className="text-xl font-semibold text-peach-600 mb-2">
+            {district.name}
+          </h2>
+          <ul className="text-sm text-gray-700 space-y-1">
+            <li>
+              <span className="font-medium">Area:</span> {district.area} km²
+            </li>
+            <li>
+              <span className="font-medium">Blocks:</span> {district.blocks}
+            </li>
+            <li>
+              <span className="font-medium">Population:</span> {district.population}
+            </li>
+            <li>
+              <span className="font-medium">Villages:</span> {district.villages}
+            </li>
+          </ul>
         </div>
-      ))}
+        <div className="mt-4">
+          <Link
+            to={`/district/${district.id}`}
+            className="inline-block px-4 py-2 rounded-lg bg-peach-500 hover:bg-peach-600 text-white text-sm font-semibold transition"
+          >
+            Explore {district.name}
+          </Link>
+        </div>
+      </div>
+
+      {/* Image */}
+      <div className="w-full md:w-1/2 aspect-video md:aspect-auto max-h-64 md:max-h-50">
+        <img
+          src={`${district.image}`}
+          alt={`${district.name}`}
+          className="w-full h-full object-cover transition-opacity"
+        />
+      </div>
+    </div>
+))}
+
     </div>
   </main>
   <MissionSection />

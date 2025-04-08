@@ -23,10 +23,16 @@
     "mapUrl": "https://maps.google.com/?q=Massanjore+Dam",
     "frontImage": "http://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2018/05/2018051710.jpg",
     "photoGallery": [
-      "https://example.com/massanjore1.jpg",
-      "https://example.com/massanjore2.jpg",
-      "https://example.com/massanjore3.jpg"
-    ]
+  {
+    "url": "https://thumbs.dreamstime.com/b/massanjore-dam-west-bengal-india-landscape-view-blue-water-sky-river-261997495.jpg",
+    "credit": "Photographer Name / Dept. of Tourism"
+  },
+  {
+    "url": "https://www.onepointinfo.com/wp-content/uploads/2021/12/Massanjore-Dam-1024x581.jpeg",
+    "credit": "Jharkhand Tourism"
+  }
+]
+
   },
   {
     "id": "malooti-temples",
