@@ -5,6 +5,7 @@ import districts from "../data/districts.json";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import jtgLogo from '../assets/images/jharkhand-tourism-logo.png';
+import { Helmet } from "react-helmet-async";
 
 export default function DistrictDetail() {
   const { id } = useParams();
@@ -17,6 +18,19 @@ export default function DistrictDetail() {
 
   return (
     <div className="bg-[#fffdf9] text-black min-h-screen flex flex-col pt-20">
+      <Helmet>
+        <title>Explore {district.name} | Jharkhand Tourism Guide</title>
+        <meta name="description" content="Explore Jharkhand's beautiful districts, tourist places, helplines and travel info in one place." />
+        <meta name="keywords" content={`Jharkhand, tourism, travel`} />
+        <meta name="robots" content="index, follow" />
+        
+        <meta property="og:title" content="Jharkhand Tourism Guide | Home" />
+        <meta property="og:description" content="Explore Jharkhand's beautiful districts, tourist places, helplines and travel info in one place." />
+        <meta property="og:image" content="http://jharkhand.sbs/images/places/324231134_183657027598723_50202459.jpeg" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://jharkhand.sbs/" />
+        <link rel="canonical" href="https://jharkhand.sbs/" />
+      </Helmet>
       <Header />
       <main className="flex-1 w-full max-w-screen-xl mx-auto p-6">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-10">

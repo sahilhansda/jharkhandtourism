@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";
+import { Helmet } from "react-helmet-async";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import places from "../data/places.json";
@@ -7,6 +8,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
 import Modal from "react-modal";
+import { Link } from "react-router-dom";
 
 // Bind modal to app root
 Modal.setAppElement("#root");
@@ -21,7 +23,7 @@ export default function Place() {
 
   function openModal(url, credit) {
     setModalImg(url);
-    setModalCredit(credit || "Jharkhand Tourism");
+    setModalCredit(credit || "Unknown Photographer");
     setModalOpen(true);
   }
 
@@ -35,7 +37,25 @@ export default function Place() {
 
   return (
     <div className="relative bg-peach-50 min-h-screen">
-      {/* Background Pattern */}
+      {placeData && (
+        <Helmet>
+        <title>{placeData.name} | Jharkhand Tourism</title>
+        <meta name="description" content={placeData.description} />
+        <meta name="keywords" content={`Jharkhand, ${placeData.name}, tourism, travel`} />
+        <meta name="robots" content="index, follow" />
+      
+        {/* Open Graph tags */}
+        <meta property="og:title" content={placeData.name} />
+        <meta property="og:description" content={placeData.description} />
+        <meta property="og:image" content={placeData.frontImage} />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={`https://jharkhand.sbs/place/${placeData.id}`} />
+      
+        {/* Canonical */}
+        <link rel="canonical" href={`https://jharkhand.sbs/place/${placeData.id}`} />
+      </Helmet>
+      )}
+      
       <div
         className="absolute inset-0 bg-repeat opacity-10 z-0"
         style={{
@@ -58,7 +78,7 @@ export default function Place() {
               className="w-full rounded-2xl shadow-lg object-cover max-h-[400px]"
             />
             <div className="absolute bottom-2 left-2 bg-black/50 text-white text-xs px-2 py-1 rounded">
-              Image: Jharkhand Tourism
+            Photo By: {placeData.frontImagecredit}
             </div>
           </div>
 
@@ -150,9 +170,9 @@ export default function Place() {
                 <SwiperSlide key={idx}>
                   <img
                     src={img.url}
-                    alt={`Gallery ${idx + 1}`}
+                    alt={`Gallery ${idx + 1} ${placeData.name}`}
                     onClick={() => openModal(img.url, img.credit)}
-                    className="cursor-pointer rounded-lg shadow hover:scale-105 h-40 transition-transform"
+                    className="cursor-pointer rounded-lg shadow hover:scale-105 h-60 transition-transform"
                   />
                 </SwiperSlide>
               ))}
@@ -225,14 +245,14 @@ export default function Place() {
               View on Map
             </a>
 
-            <a
-              href={`/district/${placeData.districtId}`}
+            <Link
+              to={`/district/${placeData.districtId}`}
               className="px-4 py-2 border border-peach-600 text-peach-700 rounded-lg hover:bg-peach-50 transition"
             >
               More on{" "}
               {placeData.districtId.charAt(0).toUpperCase() +
                 placeData.districtId.slice(1)}
-            </a>
+            </Link>
           </div>
         </div>
 

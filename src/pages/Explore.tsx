@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import { Helmet } from "react-helmet-async";
 
 const places = [
   {
@@ -43,6 +44,19 @@ const fadeUp = {
 export default function ExplorePage() {
   return (
     <section className="bg-peach-50 min-h-screen">
+      <Helmet>
+        <title>Explore | Jharkhand Tourism Guide</title>
+        <meta name="description" content="Explore Jharkhand's beautiful districts, tourist places, helplines and travel info in one place." />
+        <meta name="keywords" content={`Jharkhand, tourism, travel`} />
+        <meta name="robots" content="index, follow" />
+        
+        <meta property="og:title" content="Jharkhand Tourism Guide | Home" />
+        <meta property="og:description" content="Explore Jharkhand's beautiful districts, tourist places, helplines and travel info in one place." />
+        <meta property="og:image" content="http://jharkhand.sbs/images/places/324231134_183657027598723_50202459.jpeg" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://jharkhand.sbs/" />
+        <link rel="canonical" href="https://jharkhand.sbs/" />
+      </Helmet>
       <Header />
 
       {/* Hero Section */}

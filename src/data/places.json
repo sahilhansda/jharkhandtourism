@@ -1,4 +1,284 @@
 [
+    {
+      "id": "luguburu-ghantabari",
+      "name": "Luguburu Ghantabari",
+      "districtId": "bokaro",
+      "location": "Near TTPS Lalpania, Gomia Block, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~40 km), well-connected to major cities.",
+        "byRoad": "Accessible by road from Gomia (~16 km) via taxis or local buses."
+      },
+      "description": "A sacred tribal site at the foothills of Lugu Hill, known for its cultural and spiritual significance.",
+      "longDesc": "Luguburu Ghantabari is a revered site for the Santhal tribal community, located near the Lugu Hill series, the second-highest range in Jharkhand. Surrounded by the Damodar River and tributaries like Katail and Sadabahar, it hosts an annual gathering on Kartik Purnima, drawing devotees nationwide.",
+      "tourismType": ["cultural", "spiritual", "nature"],
+      "activities": ["Pilgrimage", "Nature Exploration", "Tribal Culture Study"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to February, especially during Kartik Purnima.",
+      "managedBy": "Local Tribal Community and District Administration.",
+      "contact": {
+        "localHelpline": "06542-123456 (Bokaro Administration)",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Luguburu+Ghantabari",
+      "frontImage": "/images/places/luguburu_ghantabari.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/luguburu_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/luguburu_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "city-park",
+      "name": "City Park",
+      "districtId": "bokaro",
+      "location": "Sector 3, Bokaro Steel City",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~2 km).",
+        "byRoad": "Easily accessible by auto-rickshaws or taxis from city center (~2 km)."
+      },
+      "description": "A recreational park with an artificial lake and musical fountain, ideal for family outings.",
+      "longDesc": "City Park in Sector 3 is a popular spot featuring an artificial lake, three islands, and greenery. It offers boating and a musical fountain, making it a weekend favorite for picnics and relaxation amidst nearby dining options.",
+      "tourismType": ["recreation", "family"],
+      "activities": ["Boating", "Picnicking", "Relaxation", "Fountain Viewing"],
+      "ticketInformation": "Entry is free. Boating charges: ₹50-₹100 per person.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Bokaro Steel Plant (SAIL).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=City+Park+Bokaro",
+      "frontImage": "/images/places/city_park.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/city_park_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/city_park_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "jawaharlal-nehru-biological-park",
+      "name": "Jawaharlal Nehru Biological Park",
+      "districtId": "bokaro",
+      "location": "Bokaro Steel City",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~2 km).",
+        "byRoad": "Accessible by local transport from city center (~2 km)."
+      },
+      "description": "Jharkhand’s largest zoo with diverse wildlife and recreational facilities.",
+      "longDesc": "Established in 1980 and renovated in 1989, this zoological garden managed by Bokaro Steel Plant houses rare animals like white tigers and Asiatic lions. It features a toy train, boating, and extensive flora, making it a must-visit for wildlife enthusiasts.",
+      "tourismType": ["wildlife", "family"],
+      "activities": ["Wildlife Viewing", "Boating", "Toy Train Ride", "Picnicking"],
+      "ticketInformation": "Entry: ₹20-₹50. Additional charges for boating and train rides.",
+      "bestTimeToVisit": "November to February for comfortable weather.",
+      "managedBy": "Bokaro Steel Plant (SAIL).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Jawaharlal+Nehru+Biological+Park+Bokaro",
+      "frontImage": "/images/places/jnb_park.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/jnb_park_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/jnb_park_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "garga-dam",
+      "name": "Garga Dam",
+      "districtId": "bokaro",
+      "location": "Near Bokaro Railway Station, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~12 km).",
+        "byRoad": "Accessible via NH-23 by taxis or buses (~12 km from city center)."
+      },
+      "description": "A scenic dam on the Garga River, perfect for picnics and relaxation.",
+      "longDesc": "Built in the 1970s, Garga Dam supplies water to Bokaro Steel City and offers a serene environment with its reservoir and surrounding greenery, making it a popular spot for picnics and nature lovers.",
+      "tourismType": ["eco", "recreation"],
+      "activities": ["Picnicking", "Photography", "Nature Walks"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Jharkhand Irrigation Department.",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Garga+Dam+Bokaro",
+      "frontImage": "/images/places/garga_dam.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/garga_dam_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/garga_dam_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "tenughat-dam",
+      "name": "Tenughat Dam",
+      "districtId": "bokaro",
+      "location": "Petarwar Block, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~130 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~40 km).",
+        "byRoad": "Accessible by road from Bokaro (~40 km) via taxis or buses."
+      },
+      "description": "A large dam on the Damodar River with stunning views and picnic spots.",
+      "longDesc": "Constructed in 1978 by the Damodar Valley Corporation, Tenughat Dam is known for its vast reservoir (30 sq km) and scenic beauty. It supports irrigation, water supply, and power generation, while offering a tranquil setting for visitors.",
+      "tourismType": ["eco", "recreation"],
+      "activities": ["Picnicking", "Photography", "Nature Viewing"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Damodar Valley Corporation (DVC).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Tenughat+Dam+Petarwar",
+      "frontImage": "/images/places/tenughat_dam.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/tenughat_dam_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/tenughat_dam_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "sita-fall",
+      "name": "Sita Fall",
+      "districtId": "bokaro",
+      "location": "Chas Block, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~25 km).",
+        "byRoad": "Accessible by road from Chas (~15 km) via taxis or local transport."
+      },
+      "description": "A picturesque waterfall on the Damodar River, ideal for nature lovers.",
+      "longDesc": "Sita Fall in Chas Block is a beautiful cascade on the Damodar River, especially vibrant during the monsoon. Surrounded by greenery, it’s a favored spot for picnics and enjoying nature’s tranquility.",
+      "tourismType": ["eco", "nature"],
+      "activities": ["Picnicking", "Photography", "Nature Walks"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "July to October for full water flow.",
+      "managedBy": "District Administration.",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Sita+Fall+Chas",
+      "frontImage": "/images/places/sita_fall.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/sita_fall_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/sita_fall_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "chechaka-dham",
+      "name": "Chechaka Dham (Chechakeshwar Dham)",
+      "districtId": "bokaro",
+      "location": "Bokaro District",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~20 km).",
+        "byRoad": "Accessible by road from Bokaro city via taxis or buses."
+      },
+      "description": "A revered Shiva temple known as Mini Baba Dham.",
+      "longDesc": "Chechaka Dham is a prominent Shiva temple in Bokaro, attracting Hindu devotees who believe their prayers are answered here. Known as 'Mini Baba Dham,' it holds significant spiritual importance in the region.",
+      "tourismType": ["spiritual", "cultural"],
+      "activities": ["Pilgrimage", "Prayer", "Cultural Exploration"],
+      "ticketInformation": "Entry is free. Donations accepted.",
+      "bestTimeToVisit": "February to March, especially during Mahashivratri.",
+      "managedBy": "Temple Trust and District Administration.",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Chechaka+Dham+Bokaro",
+      "frontImage": "/images/places/chechaka_dham.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/chechaka_dham_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/chechaka_dham_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "konar-dam",
+      "name": "Konar Dam",
+      "districtId": "bokaro",
+      "location": "Bokaro District",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~120 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~30 km).",
+        "byRoad": "Accessible by road from Bokaro via taxis or buses (~30 km)."
+      },
+      "description": "A multipurpose dam with scenic surroundings, ideal for outings.",
+      "longDesc": "Built in the 1980s on the Konar River, this dam supports water supply, irrigation, flood control, and power generation. Its reservoir and picturesque setting make it a notable destination for visitors seeking natural beauty.",
+      "tourismType": ["eco", "recreation"],
+      "activities": ["Picnicking", "Photography", "Nature Viewing"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Damodar Valley Corporation (DVC).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Konar+Dam+Bokaro",
+      "frontImage": "/images/places/konar_dam.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/konar_dam_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/konar_dam_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
   {
     "id": "massanjore-dam",
     "name": "Massanjore Dam",
@@ -13,23 +293,32 @@
     "longDesc": "Massanjore Dam, also known as Canada Dam, is built on the Mayurakshi River. It's a popular tourist destination surrounded by hills, forests, and lush greenery. The dam also features boating facilities and scenic views, making it ideal for nature lovers and photographers.",
     "tourismType": ["eco", "adventure"],
     "activities": ["Boating", "Nature Walks", "Photography", "Bird Watching", "Picnicking"],
-    "ticketInformation": "Entry is free. Boating may have separate charges (₹50–₹100 per person).",
+    "ticketInformation": "Entry is free. Boating may have separate charges (₹50 to ₹100 per person).",
     "bestTimeToVisit": "October to March, when the weather is pleasant and the reservoir is full.",
     "managedBy": "Jharkhand Tourism Department and Irrigation Department.",
     "contact": {
       "localHelpline": "06534-123456",
       "tourismOffice": "Dumka Tourism Office: 06534-789012"
     },
-    "mapUrl": "https://maps.google.com/?q=Massanjore+Dam",
-    "frontImage": "http://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2018/05/2018051710.jpg",
+    "mapUrl": "https://maps.app.goo.gl/XjrxcvvXL71pumuf8",
+    "frontImage": "/images/places/324231134_183657027598723_50202459.jpeg",
+    "frontImagecredit": "360 Dumka",
     "photoGallery": [
   {
-    "url": "https://thumbs.dreamstime.com/b/massanjore-dam-west-bengal-india-landscape-view-blue-water-sky-river-261997495.jpg",
-    "credit": "Photographer Name / Dept. of Tourism"
+    "url": "/images/places/324398053_742254547268227_65539706.jpeg",
+    "credit": "360 Dumka"
   },
   {
-    "url": "https://www.onepointinfo.com/wp-content/uploads/2021/12/Massanjore-Dam-1024x581.jpeg",
-    "credit": "Jharkhand Tourism"
+    "url": "/images/places/473068744_1141821660683804_7924408.jpeg",
+    "credit": "360 Dumka"
+  },
+  {
+    "url": "/images/places/324432648_1144251842948900_5528320.jpeg",
+    "credit": "360 Dumka"
+  },
+  {
+    "url": "/images/places/324287464_213828114340394_27117408.jpeg",
+    "credit": "360 Dumka"
   }
 ]
 
