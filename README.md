@@ -38,9 +38,3 @@ Hosted on Netlify
 [![Netlify Status](https://api.netlify.com/api/v1/badges/76dec5df-7e1a-4f69-9a5f-22dc68e054e6/deploy-status)](https://app.netlify.com/sites/jharkhandtourguide/deploys)
 
 Made with ❤️ for Jharkhand.
-
-vbnet
-Copy
-Edit
-
-Let me know if you want a Hindi version or one with badges and GitHub stats!
