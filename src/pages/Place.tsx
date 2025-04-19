@@ -69,7 +69,7 @@ export default function Place() {
       <div className="relative z-10">
         <Header />
 
-        <div className="p-6 pt-40 max-w-5xl mx-auto space-y-10">
+        <div className="p-6 pt-20 mt-10 max-w-5xl mx-auto space-y-10">
           {/* Front Image */}
           <div className="relative">
             <img
@@ -129,7 +129,13 @@ export default function Place() {
               </ul>
             </div>
           </div>
-
+          <iframe
+          src={`https://maps.google.com/maps?q=${placeData.name}&output=embed`}
+          width="100%"
+          height="400"
+          className="rounded-2xl border border-gray-300"
+          loading="lazy"
+        ></iframe>
           {/* Activities */}
           <div>
             <h3 className="text-2xl font-semibold text-peach-600 mb-2">
@@ -231,6 +237,8 @@ export default function Place() {
               <br />
               <strong>Tourism Office:</strong>{" "}
               {placeData.contact.tourismOffice}
+              <br />
+              <strong>Police Station:</strong> {placeData.contact.policeOffice}
             </p>
           </div>
 

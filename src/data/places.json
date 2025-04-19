@@ -324,6 +324,74 @@
 
   },
   {
+    "id": "massanjore-eco-cottages",
+    "name": "Massanjore Eco Cottages",
+    "districtId": "dumka",
+    "location": "Massanjore, Dumka, Jharkhand",
+    "howToReach": {
+      "byAir": "Nearest airport is Deoghar Airport (~80 km) or Ranchi Airport (~260 km).",
+      "byTrain": "Nearest railway station is Dumka (~35 km), connected to Jasidih and Bhagalpur. Alternatively, Siuri Railway Station (~50 km) in West Bengal is accessible.",
+      "byRoad": "Well-connected by road from Dumka (~31 km), Siuri (~50 km), Tarapith (~70 km), and Deoghar (~98 km). Buses, taxis, and rental cars are available."
+    },
+    "description": "Eco-friendly wooden cottages overlooking Massanjore Dam, offering a sustainable retreat amidst nature.",
+    "longDesc": "Nestled on the scenic hills overlooking the Massanjore Dam (also known as Canada Dam) on the Mayurakshi River, the Massanjore Eco Cottages in Dumka, Jharkhand, represent a pioneering effort in sustainable tourism by the Dumka Forest Division and the Jharkhand Government. Inaugurated by Chief Minister Hemant Soren on January 25, 2025, this eco-friendly resort features 25 luxurious wooden cottages (10 premium and 15 deluxe) crafted from high-quality spruce, pine, and fir, designed to blend seamlessly with the surrounding hills and forests. The project, conceptualized and executed under IFS Satwik Vyas, emphasizes minimal environmental impact, preserving the natural terrain to avoid ecological disruptions. The cottages, built by Wood Barn India, combine Scandinavian luxury with Jharkhand’s tribal heritage, offering modern amenities like a gymnasium, cafeteria, and dedicated parking. Tourists can enjoy speed boating, trekking, and water sports, with plans for organized tours to enhance the experience. The resort’s serene setting, surrounded by the dam’s reservoir and lush greenery, provides a tranquil escape, making it a model for eco-tourism. By involving local communities in operations like guiding treks and managing boats, the project fosters economic empowerment while promoting environmental conservation. The Massanjore Eco Cottages showcase how tourism can thrive sustainably, attracting nature lovers and adventure seekers to Jharkhand’s unexplored landscapes.",
+    "tourismType": ["eco", "adventure", "sustainable"],
+    "activities": ["Nature Walks", "Photography", "Picnicking", "Stays"],
+    "ticketInformation": "Cottage rates vary by category (premium/deluxe). Contact Dumka Forest Division or booking platforms for pricing (approx. ₹2500-₹5000/night).",
+    "bestTimeToVisit": "October to March for pleasant weather and optimal dam views.",
+    "managedBy": "Dumka Forest Division, Department of Forest, Government of Jharkhand.",
+    "contact": {
+      "localHelpline": "06434-236046, 06434-236047 (Control Room Dumka)",
+      "tourismOffice": "89877-90404 (District Forest Office)",
+      "policeOffice": "269033 (Masanjor OP)"
+    },
+    "mapUrl": "https://maps.app.goo.gl/placeholder",
+    "frontImage": "/images/places/DJI_0495-1536x2048.jpg",
+    "frontImagecredit": "Dumka Diary",
+    "photoGallery": [
+      {
+        "url": "/images/places/DJI_0483-1536x2048.jpg",
+        "credit": "Dumka Diary"
+      },
+      {
+        "url": "/images/places/470901929_17984672108784425_3926093529185024918_n.jpg",
+        "credit": "Unseen Dumka"
+      },
+      {
+        "url": "/images/places/Massanjore-eco-cottage-3-1536x2048.jpg",
+        "credit": "Dumka Diary"
+      },
+      {
+        "url": "/images/places/470916846_17906078529074137_673468690447083802_n.jpg",
+        "credit": "Gulshan Kumar"
+      },
+      {
+        "url": "/images/places/470900837_17906078592074137_7686557270892615929_n.jpg",
+        "credit": "Gulshan Kumar"
+      },
+      {
+        "url": "/images/places/Massanjore-eco-cottage-4-2048x1152.jpg",
+        "credit": "Dumka Diary"
+      },
+      {
+        "url": "/images/places/474887488_18018167366657386_4156117782780494604_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      },
+      {
+        "url": "/images/places/474987088_18018167267657386_6714658288565879906_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      },
+      {
+        "url": "/images/places/474973484_18018167339657386_6270777366513768460_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      },
+      {
+        "url": "/images/places/475155976_18018167240657386_5720313854475238731_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      }
+    ]
+  },
+  {
     "id": "malooti-temples",
     "name": "Malooti Temples",
     "districtId": "dumka",
