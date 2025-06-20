@@ -391,6 +391,42 @@
       }
     ]
   },
+    {
+  "id": "siramtoli-flyover",
+  "name": "Siramtoli Flyover",
+  "districtId": "ranchi",
+  "location": "Siramtoli Chowk, Near Ranchi Railway Station, Ranchi",
+  "howToReach": {
+    "byAir": "Nearest airport is Birsa Munda Airport, Ranchi (~6 km).",
+    "byTrain": "Located adjacent to Ranchi Junction Railway Station, one of the main stations in Jharkhand.",
+    "byRoad": "Easily accessible via local buses, autos, and cabs from any part of Ranchi."
+  },
+  "description": "A modern flyover improving traffic movement in the heart of Ranchi city.",
+  "longDesc": "The Siramtoli Flyover is a key urban infrastructure project in Ranchi, designed to ease congestion around the Ranchi Railway Station and Siramtoli Chowk. Strategically built to streamline city traffic and reduce travel time, it offers improved connectivity between key city points like Kantatoli and Main Road. The flyover is not only an engineering achievement but also enhances the urban landscape of Ranchi.",
+  "tourismType": ["urban", "infrastructure"],
+  "activities": ["City Exploration", "Photography", "Urban Development Study"],
+  "ticketInformation": "Open to public use; no entry ticket required.",
+  "bestTimeToVisit": "Year-round, especially during early morning or evening for photography.",
+  "managedBy": "Ranchi Municipal Corporation and Jharkhand Urban Infrastructure Department.",
+  "contact": {
+    "localHelpline": "0651-2200000 (Ranchi Municipal Corporation)",
+    "tourismOffice": "Ranchi Tourism Office: 0651-2301120"
+  },
+  "mapUrl": "https://maps.google.com/?q=Siramtoli+Flyover+Ranchi",
+  "frontImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1G9e2N.img",
+  "frontImagecredit": "PTI",
+  "photoGallery": [
+    {
+      "url": "https://images.pexels.com/photos/32627623/pexels-photo-32627623.jpeg",
+      "credit": "Sahil Hansda"
+    },
+    {
+      "url": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/05-06-2025/jh-ran-01-cm-program-7209874_05062025160650_0506f_1749119810_339.jpg?",
+      "credit": "ETV Bharat"
+    }
+  ]
+},
+
   {
     "id": "malooti-temples",
     "name": "Malooti Temples",
