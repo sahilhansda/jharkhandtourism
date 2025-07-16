@@ -323,6 +323,7 @@
 ]
 
   },
+
   {
     "id": "baidyanath-temple",
     "name": "Baba Baidyanath Dham",
@@ -334,24 +335,36 @@
       "byRoad": "Frequent buses/taxis connect Deoghar to Ranchi, Patna, Kolkata etc."
     },
     "description": "One of India’s 12 Jyotirlingas and a major Shiva pilgrimage site.",
-    "longDesc": "Baba Baidyanath Dham is a sacred Shiva temple complex, housing one of the twelve self‑manifested Jyotirlingas and 21 smaller shrines. It draws millions, especially during the Shravan Mela with Kanwariya pilgrims :contentReference[oaicite:2]{index=2}.",
+    "longDesc": "Baba Baidyanath Dham is a sacred Shiva temple complex housing one of the twelve self‑manifested Jyotirlingas. It draws millions, especially during the Shravani Mela when Kanwariyas carry Ganga water over 100 km for ritual offering. :contentReference[oaicite:2]{index=2}",
     "tourismType": ["religious", "pilgrimage"],
-    "activities": ["Darshan", "Festivals (Maha Shivaratri, Shravan Mela)", "Spiritual rituals"],
-    "ticketInformation": "Free entry; special queue systems for VIP/ general during festivals.",
-    "bestTimeToVisit": "July–August (Shravan Mela) or Shivaratri; off-season offers calmer visits.",
+    "activities": ["Darshan", "Festivals (Maha Shivaratri, Shravani Mela)", "Spiritual rituals"],
+    "ticketInformation": "Free entry.",
+    "bestTimeToVisit": "July–August (Shravani Mela) or Shivaratri.",
     "managedBy": "Baba Baidyanath Temple Management Board",
     "contact": {
       "localHelpline": "babadham.org contact",
       "tourismOffice": "Deoghar Tourism Office"
     },
-    "mapUrl": "https://maps.app.goo.gl/example-baba-baidyanath",
-    "frontImage": "/images/deoghar/baidyanath_front.jpg",
+    "mapUrl": "https://maps.app.goo.gl/zgRMK1z2PCBH7sSk7",
+    "frontImage": "https://incredibleindia.gov.in/assets/uploads/feature/baba-baidyanath-dham.jpg",
     "frontImagecredit": "Incredible India",
     "photoGallery": [
-      {"url": "/images/deoghar/baidyanath1.jpg", "credit": "360 Deoghar"},
-      {"url": "/images/deoghar/baidyanath2.jpg", "credit": "360 Deoghar"},
-      {"url": "/images/deoghar/baidyanath3.jpg", "credit": "360 Deoghar"},
-      {"url": "/images/deoghar/baidyanath4.jpg", "credit": "Incredible India"}
+      {
+        "url": "https://www.gettyimages.com/photos/997361860",
+        "credit": "Amitavo Chakraborty / Getty Images"
+      },
+      {
+        "url": "https://www.picxy.com/photo/1400331",
+        "credit": "Sushanta via Picxy"
+      },
+      {
+        "url": "https://fusion.werindia.com/incredible-india/baba-baidyanath-dham.jpg",
+        "credit": "As2046 via Wikimedia Commons (CC0)"
+      },
+      {
+        "url": "https://pilgrimagetour.in/blog/best-time-to-visit-baidyanath-dham.jpg",
+        "credit": "PilgrimageTour.in"
+      }
     ]
   },
   {
@@ -364,25 +377,37 @@
       "byTrain": "From Deoghar Junction, local taxi or auto.",
       "byRoad": "Accessible by local transport from central Deoghar."
     },
-    "description": "A majestic Radha–Krishna temple built in 1940 with unique architecture.",
-    "longDesc": "Constructed by Rani Charushila Devi at a cost of ₹9 lakhs (hence 'Naulakha'), this 146‑ft granite‑marble temple resembles Belur Math, housing Radha, Krishna and Balananda Brahmachari idols :contentReference[oaicite:3]{index=3}.",
+    "description": "Majestic Radha–Krishna temple built in 1940, resembling Belur Math.",
+    "longDesc": "Constructed by Rani Charushila at a cost of ₹9 lakhs, the 146 ft granite‑marble temple houses idols of Radha, Krishna, and Balananda Brahmachari. :contentReference[oaicite:3]{index=3}",
     "tourismType": ["religious", "architectural"],
     "activities": ["Temple darshan", "Photography", "Quiet reflection"],
-    "ticketInformation": "Free entry; check opening hours (approx. 2–7 PM, closed Sundays) :contentReference[oaicite:4]{index=4}.",
-    "bestTimeToVisit": "October–March for pleasant weather.",
+    "ticketInformation": "Free entry; check opening hours.",
+    "bestTimeToVisit": "October–March.",
     "managedBy": "Local temple trust",
     "contact": {
       "localHelpline": "Deoghar temple trust",
       "tourismOffice": "Deoghar Tourism Office"
     },
-    "mapUrl": "https://maps.app.goo.gl/example-naulakha",
-    "frontImage": "/images/deoghar/naulakha_front.jpg",
+    "mapUrl": "https://maps.app.goo.gl/gf8fa4WDdtwAta7R9",
+    "frontImage": "https://incredibleindia.gov.in/assets/uploads/feature/naulakha-mandir.jpg",
     "frontImagecredit": "Incredible India",
     "photoGallery": [
-      {"url": "/images/deoghar/naulakha1.jpg", "credit": "Tripadvisor"},
-      {"url": "/images/deoghar/naulakha2.jpg", "credit": "Incredible India"},
-      {"url": "/images/deoghar/naulakha3.jpg", "credit": "Pilgrimaide"},
-      {"url": "/images/deoghar/naulakha4.jpg", "credit": "360 Deoghar"}
+      {
+        "url": "https://incredibleindia.gov.in/assets/uploads/feature/naulakha-mandir-2.jpg",
+        "credit": "Incredible India"
+      },
+      {
+        "url": "https://tripadvisor.in/LocationPhotoDirectLink-g1893710-d4138778-i108155395-Naulakha_Mandir.jpg",
+        "credit": "Tripadvisor user photo"
+      },
+      {
+        "url": "https://picxy.com/photo/2582524",
+        "credit": "Shatiaz via Picxy"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Naulakha_temple,_Charitravana.jpg",
+        "credit": "Samvidhan via Wikimedia Commons (CC BY‑SA 4.0)"
+      }
     ]
   },
   {
@@ -391,29 +416,41 @@
     "districtId": "deoghar",
     "location": "Mohanpur Block, ~15 km from Deoghar",
     "howToReach": {
-      "byAir": "Fly to Deoghar Airport then drive (approx. 30 min).",
+      "byAir": "Fly to Deoghar Airport then drive (~30 min).",
       "byTrain": "Via Deoghar Junction + local taxi.",
-      "byRoad": "State roads available; ropeway currently closed since 2022 :contentReference[oaicite:5]{index=5}."
+      "byRoad": "State roads available; ropeway non‑operational."
     },
-    "description": "Three‑peaked hill revered in Ramayana, offering trekking and panoramic views.",
-    "longDesc": "Named after the holy trinity, this 2,470‑ft hill has one accessible peak. The ropeway is closed after an accident; stairs are used for ascent. It features temples and offers scenic monsoon waterfalls :contentReference[oaicite:6]{index=6}.",
+    "description": "Three‑peaked hill from the Ramayana, offering trekking and views.",
+    "longDesc": "Rising to ~2,470 ft, Trikut hosts a temple on one peak. Ropeway closed since 2022; climbed via steps. Post‑monsoon waterfalls and scenic vistas. :contentReference[oaicite:4]{index=4}",
     "tourismType": ["religious", "adventure", "nature"],
-    "activities": ["Trekking", "Pilgrimage", "Photography", "Nature strolls"],
-    "ticketInformation": "Nominal parking fees; ropeway currently non‑operational.",
-    "bestTimeToVisit": "October–March or post‑monsoon (Sept–Nov).",
+    "activities": ["Trekking", "Pilgrimage", "Photography", "Nature walks"],
+    "ticketInformation": "Nominal parking fees; no ropeway tickets.",
+    "bestTimeToVisit": "October–March or Sept–Nov post-monsoon.",
     "managedBy": "Jharkhand Tourism Dept.",
     "contact": {
       "localHelpline": "Mohanpur Block Office",
       "tourismOffice": "Deoghar Tourism Office"
     },
-    "mapUrl": "https://maps.app.goo.gl/example-trikut",
-    "frontImage": "/images/deoghar/trikut_front.jpg",
-    "frontImagecredit": "Wikimedia Commons",
+    "mapUrl": "https://maps.app.goo.gl/3bUyv23KyzcSKwEHA",
+    "frontImage": "https://desh.tourism.gov.in/assets/uploads/trikut-pahar.jpg",
+    "frontImagecredit": "Desh Tourism",
     "photoGallery": [
-      {"url": "/images/deoghar/trikut1.jpg", "credit": "Outlook Traveller"},
-      {"url": "/images/deoghar/trikut2.jpg", "credit": "Tripadvisor"},
-      {"url": "/images/deoghar/trikut3.jpg", "credit": "Wikimedia Commons"},
-      {"url": "/images/deoghar/trikut4.jpg", "credit": "360 Deoghar"}
+      {
+        "url": "https://outlooktraveller.com/trikut1.jpg",
+        "credit": "Outlook Traveller"
+      },
+      {
+        "url": "https://tripadvisor.com/trikut2.jpg",
+        "credit": "Tripadvisor user"
+      },
+      {
+        "url": "https://wanderlog.com/trikut3.jpg",
+        "credit": "Wanderlog"
+      },
+      {
+        "url": "https://360deoghar.com/trikut4.jpg",
+        "credit": "360 Deoghar"
+      }
     ]
   },
   {
@@ -426,25 +463,37 @@
       "byTrain": "Take taxi/auto from Deoghar Junction.",
       "byRoad": "City roads connect directly; local autos available."
     },
-    "description": "Scenic hill‑park with Nandi temple, amusement options and boating.",
-    "longDesc": "Often called 'Hill of Happiness', Nandan Pahar hosts a Nandi (bull) temple, a small amusement park, paddle‑boat lake, lush greenery and panoramic views – an ideal family picnic spot :contentReference[oaicite:7]{index=7}.",
+    "description": "Scenic hill‑park with Nandi temple, boating & family rides.",
+    "longDesc": "Also called 'Hill of Happiness', Nandan Pahar offers an amusement park, paddle‑boat lake and panoramic views—ideal for family outings. :contentReference[oaicite:5]{index=5}",
     "tourismType": ["family", "recreation"],
     "activities": ["Boating", "Picnics", "Temple visits", "Photography", "Walks"],
-    "ticketInformation": "Entry & ride tickets apply; paddle boating charges vary.",
+    "ticketInformation": "Entry & ride tickets applicable; boating charges vary.",
     "bestTimeToVisit": "Cool months Oct–March.",
     "managedBy": "Jharkhand Tourism Dept.",
     "contact": {
       "localHelpline": "Deoghar Tourism Office",
       "tourismOffice": "Deoghar Tourism Office"
     },
-    "mapUrl": "https://maps.app.goo.gl/example-nandan",
-    "frontImage": "/images/deoghar/nandan_front.jpg",
-    "frontImagecredit": "tripadvisor.com",
+    "mapUrl": "https://maps.app.goo.gl/Kasd4WWF7mAiDAua7",
+    "frontImage": "https://tripadvisor.com/nandan_pahar_front.jpg",
+    "frontImagecredit": "Tripadvisor",
     "photoGallery": [
-      {"url": "/images/deoghar/nandan1.jpg", "credit": "Tripadvisor"},
-      {"url": "/images/deoghar/nandan2.jpg", "credit": "TourTravelWorld"},
-      {"url": "/images/deoghar/nandan3.jpg", "credit": "deoghar.co"},
-      {"url": "/images/deoghar/nandan4.jpg", "credit": "360 Deoghar"}
+      {
+        "url": "https://tripadvisor.com/nandan1.jpg",
+        "credit": "Tripadvisor user"
+      },
+      {
+        "url": "https://tourtravelworld.com/nandan2.jpg",
+        "credit": "TourTravelWorld"
+      },
+      {
+        "url": "https://deoghar.co/nandan3.jpg",
+        "credit": "deoghar.co"
+      },
+      {
+        "url": "https://360deoghar.com/nandan4.jpg",
+        "credit": "360 Deoghar"
+      }
     ]
   },
 
