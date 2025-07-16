@@ -324,6 +324,131 @@
 
   },
   {
+    "id": "baidyanath-temple",
+    "name": "Baba Baidyanath Dham",
+    "districtId": "deoghar",
+    "location": "Deoghar town",
+    "howToReach": {
+      "byAir": "Nearest airport is Deoghar Airport (~10 km), or Patna Airport (~250 km).",
+      "byTrain": "Deoghar Junction (DGHR) is well‑connected to major cities.",
+      "byRoad": "Frequent buses/taxis connect Deoghar to Ranchi, Patna, Kolkata etc."
+    },
+    "description": "One of India’s 12 Jyotirlingas and a major Shiva pilgrimage site.",
+    "longDesc": "Baba Baidyanath Dham is a sacred Shiva temple complex, housing one of the twelve self‑manifested Jyotirlingas and 21 smaller shrines. It draws millions, especially during the Shravan Mela with Kanwariya pilgrims :contentReference[oaicite:2]{index=2}.",
+    "tourismType": ["religious", "pilgrimage"],
+    "activities": ["Darshan", "Festivals (Maha Shivaratri, Shravan Mela)", "Spiritual rituals"],
+    "ticketInformation": "Free entry; special queue systems for VIP/ general during festivals.",
+    "bestTimeToVisit": "July–August (Shravan Mela) or Shivaratri; off-season offers calmer visits.",
+    "managedBy": "Baba Baidyanath Temple Management Board",
+    "contact": {
+      "localHelpline": "babadham.org contact",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/example-baba-baidyanath",
+    "frontImage": "/images/deoghar/baidyanath_front.jpg",
+    "frontImagecredit": "Incredible India",
+    "photoGallery": [
+      {"url": "/images/deoghar/baidyanath1.jpg", "credit": "360 Deoghar"},
+      {"url": "/images/deoghar/baidyanath2.jpg", "credit": "360 Deoghar"},
+      {"url": "/images/deoghar/baidyanath3.jpg", "credit": "360 Deoghar"},
+      {"url": "/images/deoghar/baidyanath4.jpg", "credit": "Incredible India"}
+    ]
+  },
+  {
+    "id": "naulakha-mandir",
+    "name": "Naulakha Mandir",
+    "districtId": "deoghar",
+    "location": "Karnibad, ~1.5 km from Baba Dham",
+    "howToReach": {
+      "byAir": "Via Deoghar Airport then taxi (~15 min).",
+      "byTrain": "From Deoghar Junction, local taxi or auto.",
+      "byRoad": "Accessible by local transport from central Deoghar."
+    },
+    "description": "A majestic Radha–Krishna temple built in 1940 with unique architecture.",
+    "longDesc": "Constructed by Rani Charushila Devi at a cost of ₹9 lakhs (hence 'Naulakha'), this 146‑ft granite‑marble temple resembles Belur Math, housing Radha, Krishna and Balananda Brahmachari idols :contentReference[oaicite:3]{index=3}.",
+    "tourismType": ["religious", "architectural"],
+    "activities": ["Temple darshan", "Photography", "Quiet reflection"],
+    "ticketInformation": "Free entry; check opening hours (approx. 2–7 PM, closed Sundays) :contentReference[oaicite:4]{index=4}.",
+    "bestTimeToVisit": "October–March for pleasant weather.",
+    "managedBy": "Local temple trust",
+    "contact": {
+      "localHelpline": "Deoghar temple trust",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/example-naulakha",
+    "frontImage": "/images/deoghar/naulakha_front.jpg",
+    "frontImagecredit": "Incredible India",
+    "photoGallery": [
+      {"url": "/images/deoghar/naulakha1.jpg", "credit": "Tripadvisor"},
+      {"url": "/images/deoghar/naulakha2.jpg", "credit": "Incredible India"},
+      {"url": "/images/deoghar/naulakha3.jpg", "credit": "Pilgrimaide"},
+      {"url": "/images/deoghar/naulakha4.jpg", "credit": "360 Deoghar"}
+    ]
+  },
+  {
+    "id": "trikut-hill",
+    "name": "Trikut Hills (Trikut Pahar)",
+    "districtId": "deoghar",
+    "location": "Mohanpur Block, ~15 km from Deoghar",
+    "howToReach": {
+      "byAir": "Fly to Deoghar Airport then drive (approx. 30 min).",
+      "byTrain": "Via Deoghar Junction + local taxi.",
+      "byRoad": "State roads available; ropeway currently closed since 2022 :contentReference[oaicite:5]{index=5}."
+    },
+    "description": "Three‑peaked hill revered in Ramayana, offering trekking and panoramic views.",
+    "longDesc": "Named after the holy trinity, this 2,470‑ft hill has one accessible peak. The ropeway is closed after an accident; stairs are used for ascent. It features temples and offers scenic monsoon waterfalls :contentReference[oaicite:6]{index=6}.",
+    "tourismType": ["religious", "adventure", "nature"],
+    "activities": ["Trekking", "Pilgrimage", "Photography", "Nature strolls"],
+    "ticketInformation": "Nominal parking fees; ropeway currently non‑operational.",
+    "bestTimeToVisit": "October–March or post‑monsoon (Sept–Nov).",
+    "managedBy": "Jharkhand Tourism Dept.",
+    "contact": {
+      "localHelpline": "Mohanpur Block Office",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/example-trikut",
+    "frontImage": "/images/deoghar/trikut_front.jpg",
+    "frontImagecredit": "Wikimedia Commons",
+    "photoGallery": [
+      {"url": "/images/deoghar/trikut1.jpg", "credit": "Outlook Traveller"},
+      {"url": "/images/deoghar/trikut2.jpg", "credit": "Tripadvisor"},
+      {"url": "/images/deoghar/trikut3.jpg", "credit": "Wikimedia Commons"},
+      {"url": "/images/deoghar/trikut4.jpg", "credit": "360 Deoghar"}
+    ]
+  },
+  {
+    "id": "nandan-pahar",
+    "name": "Nandan Pahar",
+    "districtId": "deoghar",
+    "location": "Edge of Deoghar town",
+    "howToReach": {
+      "byAir": "Accessible via Deoghar Airport + short drive.",
+      "byTrain": "Take taxi/auto from Deoghar Junction.",
+      "byRoad": "City roads connect directly; local autos available."
+    },
+    "description": "Scenic hill‑park with Nandi temple, amusement options and boating.",
+    "longDesc": "Often called 'Hill of Happiness', Nandan Pahar hosts a Nandi (bull) temple, a small amusement park, paddle‑boat lake, lush greenery and panoramic views – an ideal family picnic spot :contentReference[oaicite:7]{index=7}.",
+    "tourismType": ["family", "recreation"],
+    "activities": ["Boating", "Picnics", "Temple visits", "Photography", "Walks"],
+    "ticketInformation": "Entry & ride tickets apply; paddle boating charges vary.",
+    "bestTimeToVisit": "Cool months Oct–March.",
+    "managedBy": "Jharkhand Tourism Dept.",
+    "contact": {
+      "localHelpline": "Deoghar Tourism Office",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/example-nandan",
+    "frontImage": "/images/deoghar/nandan_front.jpg",
+    "frontImagecredit": "tripadvisor.com",
+    "photoGallery": [
+      {"url": "/images/deoghar/nandan1.jpg", "credit": "Tripadvisor"},
+      {"url": "/images/deoghar/nandan2.jpg", "credit": "TourTravelWorld"},
+      {"url": "/images/deoghar/nandan3.jpg", "credit": "deoghar.co"},
+      {"url": "/images/deoghar/nandan4.jpg", "credit": "360 Deoghar"}
+    ]
+  },
+
+  {
     "id": "massanjore-eco-cottages",
     "name": "Massanjore Eco Cottages",
     "districtId": "dumka",
