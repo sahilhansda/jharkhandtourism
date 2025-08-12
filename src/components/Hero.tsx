@@ -4,9 +4,9 @@ import '../assets/styles/index.css';
 
 const logos = [
   {
-    src: "https://amritmahotsav.nic.in/writereaddata/portal/images/logo-black.png",
-    alt: "Azadi Ka Amrit Mahotsav",
-    url: "https://amritmahotsav.nic.in/",
+    src: "https://amritkaal.nic.in/writereaddata/portal/images/Amritkaal-Logo-03.png",
+    alt: "Amrit Kaal",
+    url: "https://amritkaal.nic.in/",
   },
   {
     src: "https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/digital-india.svg.gzip",
