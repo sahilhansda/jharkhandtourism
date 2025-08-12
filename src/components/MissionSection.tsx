@@ -1,7 +1,7 @@
 import React from "react";
 
 const logos = [
-  { src: "https://amritmahotsav.nic.in/writereaddata/portal/images/logo-black.png", alt: "Azadi Ka Amrit Mahotsav" },
+  { src: "https://amritkaal.nic.in/writereaddata/portal/images/Amritkaal-Logo-03.png", alt: "Amrit Kaal" },
   { src: "https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/digital-india.svg.gzip", alt: "Digital India" },
   { src: "https://utsav.gov.in/public/images/logo/Incredible_Logo_1.png", alt: "Incredible India" },
   { src: "http://www.g20.in/en/images/home/g20-logo.png", alt: "G20 India" },
