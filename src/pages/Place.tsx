@@ -233,7 +233,7 @@ export default function Place() {
               Contact
             </h3>
             <p className="text-gray-700">
-              <strong>Helpline:</strong> {placeData.contact.Email}
+              <strong>Email:</strong> {placeData.contact.Email}
               <br />
               <strong>Helpline:</strong> {placeData.contact.localHelpline}
               <br />
